@@ -1,0 +1,25 @@
+{
+  "name": "pump_tracker",
+  "version": "1.0.0",
+  "description": "Pump Tracker alert application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaafar/Pump_Tracker.git"
+  },
+  "author": "Hedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaafar/Pump_Tracker/issues"
+  },
+  "homepage": "https://github.com/benjaafar/Pump_Tracker#readme",
+  "dependencies": {
+    "@binance/connector": "^1.3.1",
+    "install": "^0.13.0",
+    "mongodb": "^4.1.1",
+    "npm": "^7.22.0"
+  }
+}
